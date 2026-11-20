@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="100%" stop-color="#d90429"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="90" y="180" width="24" height="152" rx="12" fill="url(#redGrad)"/>
+  <rect x="120" y="150" width="36" height="212" rx="18" fill="url(#redGrad)"/>
+  <rect x="398" y="180" width="24" height="152" rx="12" fill="url(#redGrad)"/>
+  <rect x="356" y="150" width="36" height="212" rx="18" fill="url(#redGrad)"/>
+  <rect x="150" y="230" width="212" height="52" rx="26" fill="url(#redGrad)"/>
+
+  <circle cx="225" cy="250" r="8" fill="white"/>
+  <circle cx="287" cy="250" r="8" fill="white"/>
+  <circle cx="225" cy="252" r="3" fill="#333"/>
+  <circle cx="287" cy="252" r="3" fill="#333"/>
+  <path d="M232 276 Q256 296 280 276" stroke="white" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="205" cy="275" r="8" fill="#ffb3b3" opacity="0.8"/>
+  <circle cx="307" cy="275" r="8" fill="#ffb3b3" opacity="0.8"/>
+</svg>
